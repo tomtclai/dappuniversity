@@ -1,4 +1,4 @@
-### My notes while going thru Master Solidity.
+### My notes while going thru Mastering Solidity.
 
 Title  | Mastering Solidity
 -------|-------------------
