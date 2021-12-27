@@ -1,4 +1,4 @@
-### My notes while going thru Mastering Solidity.
+### My notes while going thru Master Solidity for Blockchain.
 
 Title  | Master Solidity for Blockchain
 -------|-------------------
@@ -7,3 +7,8 @@ Link   | [Youtube](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8Zftg
 IDE    | [Remix IDE](https://remix.ethereum.org/)
 
 [Back to home repo](https://github.com/tomtclai/learning)
+
+
+### What's next? 
+
+- /r/ethdev sorted by top all time [https://www.reddit.com/r/ethdev/top/?t=all](https://www.reddit.com/r/ethdev/top/?t=all)
