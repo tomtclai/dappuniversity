@@ -11,4 +11,5 @@ IDE    | [Remix IDE](https://remix.ethereum.org/)
 
 ### What's next? 
 
+- [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://github.com/tomtclai/full-blockchain-solidity-course-py)
 - /r/ethdev sorted by top all time [https://www.reddit.com/r/ethdev/top/?t=all](https://www.reddit.com/r/ethdev/top/?t=all)
